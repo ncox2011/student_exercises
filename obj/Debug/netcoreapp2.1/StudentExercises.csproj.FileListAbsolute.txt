@@ -1,0 +1,14 @@
+C:\Users\natas\workspace\backend\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.deps.json
+C:\Users\natas\workspace\backend\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.runtimeconfig.json
+C:\Users\natas\workspace\backend\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.runtimeconfig.dev.json
+C:\Users\natas\workspace\backend\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.dll
+C:\Users\natas\workspace\backend\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.pdb
+C:\Users\natas\workspace\backend\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.csprojAssemblyReference.cache
+C:\Users\natas\workspace\backend\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.csproj.CoreCompileInputs.cache
+C:\Users\natas\workspace\backend\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorAssemblyInfo.cache
+C:\Users\natas\workspace\backend\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorAssemblyInfo.cs
+C:\Users\natas\workspace\backend\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.AssemblyInfoInputs.cache
+C:\Users\natas\workspace\backend\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.AssemblyInfo.cs
+C:\Users\natas\workspace\backend\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorTargetAssemblyInfo.cache
+C:\Users\natas\workspace\backend\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.dll
+C:\Users\natas\workspace\backend\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.pdb
